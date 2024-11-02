@@ -7,10 +7,16 @@
         @apply px-4;
         @apply cursor-pointer;
         @apply font-bold;
+        @apply text-lg;
     }
 }
 
 .banner{
     background: url("assets/banner_cafe_1.png") no-repeat right center;
+    background-size: cover;
+}
+
+.about{
+    background: url("assets/about_3.webp") no-repeat right center;
     background-size: cover;
 }

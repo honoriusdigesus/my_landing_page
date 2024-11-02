@@ -4,10 +4,10 @@ import {HiArrowNarrowRight} from "react-icons/hi";
 const Home = () => {
     return (<div id='home' className='w-full h-screen banner'>
         <div className='max-w-[960px] mx-auto h-full px-8 flex flex-col justify-center'>
-            <p className='text-white text-2xl font-semibold'>Hola, mi nombre es</p>
+            <p className='text-white font-semibold text-2xl'>Hola, mi nombre es</p>
             <h1 className='text-6xl text-white font-bold sm:text-7xl'>Honorius di Gesus</h1>
             <h2 className='text-6xl text-white font-bold sm:text-5xl'>y soy un Full Stack Developers</h2>
-            <p className='py-4 max-w-[700px] text-white'>
+            <p className='py-4 max-w-[700px] text-white font-semibold'>
                 Soy un desarrollador en formación, con conocimientos en HTML, CSS, Tailwindcss, JavaScript, TypeScript,
                 Angular y
                 React para el desarrollo de interfaces web. También tengo conociemiento en el backend, utilizando
