@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my_landing_page/static/css/main.72c5c3e3.css",
+    "main.js": "/my_landing_page/static/js/main.7b908a58.js",
+    "static/media/banner_cafe_1.png": "/my_landing_page/static/media/banner_cafe_1.c277404f0bbf2c9c85e9.png",
+    "static/media/landing_page.png": "/my_landing_page/static/media/landing_page.b75bd40f9eb572f2e729.png",
+    "static/media/about_3.webp": "/my_landing_page/static/media/about_3.a49ded25e0c447427bb4.webp",
+    "static/media/contact_8.webp": "/my_landing_page/static/media/contact_8.2c9548be54378631f657.webp",
+    "static/media/work_2.webp": "/my_landing_page/static/media/work_2.e26a19e00f7427044cdd.webp",
+    "static/media/black.webp": "/my_landing_page/static/media/black.8e367a03583165c2cd21.webp",
+    "static/media/ecommerce-springboot.png": "/my_landing_page/static/media/ecommerce-springboot.593f873436d1e2b725e1.png",
+    "static/media/logo.png": "/my_landing_page/static/media/logo.73160257f45b214acadc.png",
+    "static/media/github_1.png": "/my_landing_page/static/media/github_1.cdbc1d4a52435acfc8f7.png",
+    "static/media/dashboard.png": "/my_landing_page/static/media/dashboard.8d5f1caab1c5e3350b88.png",
+    "static/media/api_product.png": "/my_landing_page/static/media/api_product.7edf10a42cd5651104f1.png",
+    "static/media/fetch_basic.png": "/my_landing_page/static/media/fetch_basic.ee7519a87d868fa21cc2.png",
+    "static/media/python.png": "/my_landing_page/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/logoreact.png": "/my_landing_page/static/media/logoreact.3b5049ea7908e9da3ba0.png",
+    "static/media/angular.png": "/my_landing_page/static/media/angular.e26290e2f462535adef4.png",
+    "static/media/html.png": "/my_landing_page/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/sqlserver.png": "/my_landing_page/static/media/sqlserver.25bfdcadd50b9710100e.png",
+    "static/media/css.png": "/my_landing_page/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/typescript.png": "/my_landing_page/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/js.png": "/my_landing_page/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/postman.svg": "/my_landing_page/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
+    "index.html": "/my_landing_page/index.html",
+    "main.72c5c3e3.css.map": "/my_landing_page/static/css/main.72c5c3e3.css.map",
+    "main.7b908a58.js.map": "/my_landing_page/static/js/main.7b908a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c5c3e3.css",
+    "static/js/main.7b908a58.js"
+  ]
+}
