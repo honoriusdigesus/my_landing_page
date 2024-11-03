@@ -40,7 +40,7 @@ const Work = () => {
                         </div>
                         <div className='pt-6 text-center'>
                             <a className='text-center hover:scale-110 duration-500 opacity-70 rounded-full px-4 py-3 bg-white text-black'
-                               href="/">Ver</a>
+                               href="https://github.com/honoriusdigesus/my_landing_page">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const Work = () => {
                         </div>
                         <div className='pt-6 text-center'>
                             <a className='text-center hover:scale-110 duration-500 opacity-70 rounded-full px-4 py-3 bg-white text-black'
-                               href="/">Ver</a>
+                               href="https://github.com/honoriusdigesus/APIProduct">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ const Work = () => {
                         </div>
                         <div className='pt-6 text-center'>
                             <a className='text-center hover:scale-110 duration-500 opacity-70 rounded-full px-4 py-3 bg-white text-black'
-                               href="/">Ver</a>
+                               href="https://github.com/honoriusdigesus/my_client_product">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ const Work = () => {
                         </div>
                         <div className='pt-6 text-center'>
                             <a className='text-center hover:scale-110 duration-500 opacity-70 rounded-full px-4 py-3 bg-white text-black'
-                               href="/">Ver</a>
+                               href="https://github.com/honoriusdigesus/sample_react18_basic_fetch">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@ const Work = () => {
                         </div>
                         <div className='pt-6 text-center'>
                             <a className='text-center hover:scale-110 duration-500 opacity-70 rounded-full px-4 py-3 bg-white text-black'
-                               href="/">Ver</a>
+                               href="https://github.com/honoriusdigesus/ecommerce">Ver</a>
                         </div>
                     </div>
                 </div>
