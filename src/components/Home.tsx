@@ -1,5 +1,6 @@
 import React from 'react';
 import {HiArrowNarrowRight} from "react-icons/hi";
+import {Link} from "react-scroll";
 
 const Home = () => {
     return (<div id='home' className='w-full h-screen banner'>
@@ -18,6 +19,9 @@ const Home = () => {
             </p>
             <div>
                 <button
+                    onClick={() => {
+                        document.getElementById('work')?.scrollIntoView({ behavior: 'smooth' });
+                    }}
                     className='bg-emerald-900 text-white rounded-full border-2 px-6 py-3 my-2 group flex items-center hover:bg-emerald-600 hover:border-neutral-600'>Ver
                     más <span className='duration-500'><HiArrowNarrowRight className='ml-3'/></span></button>
 
