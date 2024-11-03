@@ -20,7 +20,7 @@ const Navbar = () => {
                 <li>Home</li>
                 <li>About</li>
                 <li>Skill</li>
-                <li>Services</li>
+                <li>Work</li>
                 <li>Contact</li>
             </ul>
         </div>
@@ -36,7 +36,7 @@ const Navbar = () => {
             <li className='py-6 text-1xl uppercase font-semibold'>Home</li>
             <li className='py-6 text-1xl uppercase font-semibold'>About</li>
             <li className='py-6 text-1xl uppercase font-semibold'>Skill</li>
-            <li className='py-6 text-1xl uppercase font-semibold'>Services</li>
+            <li className='py-6 text-1xl uppercase font-semibold'>Work</li>
             <li className='py-6 text-1xl uppercase font-semibold'>Contact</li>
         </ul>
 
