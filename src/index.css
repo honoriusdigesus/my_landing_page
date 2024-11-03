@@ -40,8 +40,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 180px;
-    width: 180px;
+    height: 120px;
+    width: 120px;
+}
+
+.content-div-sm {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 120px;
+    width: 120px;
 }
 
 .content-div:hover {

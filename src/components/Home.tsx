@@ -4,18 +4,17 @@ import {Link} from "react-scroll";
 
 const Home = () => {
     return (<div id='home' className='w-full h-screen banner'>
-        <div className='max-w-[960px] mx-auto h-full px-8 flex flex-col justify-center'>
-            <p className='text-white font-semibold text-2xl mt-10'>Hola, mi nombre es</p>
-            <h1 className='text-6xl text-white font-bold sm:text-7xl'>Honorius di Gesus</h1>
-            <h2 className='text-6xl text-white font-bold sm:text-5xl'>y soy un Full Stack Developers</h2>
-            <p className='py-4 max-w-[700px] text-white font-semibold'>
-                Soy un desarrollador en formación, con conocimientos en HTML, CSS, Tailwindcss, JavaScript, TypeScript,
+        <div className='max-w-[960px] mx-auto h-full px-6 flex flex-col justify-center'>
+            <p className='text-white font-semibold mt-10'>Hola, mi nombre es</p>
+            <h1 className='text-3xl text-white font-bold'>Honorius di Gesus</h1>
+            <h2 className='text-2xl text-white font-bold'>y soy un Full Stack Developers</h2>
+            <p className='pt-4 max-w-[700px] text-white font-semibold'>
+                Soy un desarrollador en formación y en constante aprendizaje, con conocimientos en HTML, CSS, Tailwindcss, JavaScript, TypeScript,
                 Angular y
                 React para el desarrollo de interfaces web. También tengo conociemiento en el backend, utilizando
                 Java con Spring Boot, C# en .NET Entity Framework.
                 Me apasiona crear aplicaciones funcionales y mejorar continuamente mis habilidades para desarrollar
-                soluciones efectivas y escalables. Estoy en
-                constante aprendizaje y abierto a nuevos retos en el mundo del desarrollo.
+                soluciones efectivas y escalables.
             </p>
             <div>
                 <button

@@ -6,13 +6,10 @@ import NET from '../assets/netcore.png';
 import SpringBoot from '../assets/springboot.png';
 import JavaScript from '../assets/js.png';
 import TailWindCSS from '../assets/tailwindcss.png';
-import GitHub from '../assets/github_1.png';
 import Angular from '../assets/angular.png';
 import LogoReact from '../assets/logoreact.png';
 import Postman from '../assets/postman.svg';
 import SQL from '../assets/sqlserver.png';
-import Python from '../assets/python.png';
-import Postgres from '../assets/postgres.png';
 import Bootstrap from '../assets/boostrap.png';
 
 
@@ -23,7 +20,7 @@ const Skills = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-white text-white uppercase'>Skills</p>
             </div>
 
-            <div className='w-full text-center py-8 grid grid-cols-3 sm:grid-cols-5 gap-6'>
+            <div className='w-full text-center py-4 grid grid-cols-3 sm:grid-cols-5 gap-2'>
                 <div className='hover:scale-110 duration-300'>
                     <img className='w-20 mx-auto' src={HTML} alt="Logo html"/>
                     <p className='my-4 text-white font-semibold'>HTML</p>
@@ -70,10 +67,10 @@ const Skills = () => {
                     <p className='my-4 text-white font-semibold'>React</p>
                 </div>
 
-                <div className='hover:scale-110 duration-300'>
-                    <img className='w-20 mx-auto' src={GitHub} alt="Logo github"/>
-                    <p className='my-4 text-white font-semibold'>Github</p>
-                </div>
+                {/*<div className='hover:scale-110 duration-300'>*/}
+                {/*    <img className='w-20 mx-auto' src={GitHub} alt="Logo github"/>*/}
+                {/*    <p className='my-4 text-white font-semibold'>Github</p>*/}
+                {/*</div>*/}
 
                 <div className='hover:scale-110 duration-300'>
                     <img className='w-20 mx-auto' src={Postman} alt="Logo postman"/>
@@ -85,20 +82,20 @@ const Skills = () => {
                     <p className='my-4 text-white font-semibold'>SQL Server</p>
                 </div>
 
-                <div className='hover:scale-110 duration-300'>
-                    <img className='w-20 mx-auto' src={Postgres} alt="Logo Postgres"/>
-                    <p className='my-4 text-white font-semibold'>Postgres</p>
-                </div>
+                {/*<div className='hover:scale-110 duration-300'>*/}
+                {/*    <img className='w-20 mx-auto' src={Postgres} alt="Logo Postgres"/>*/}
+                {/*    <p className='my-4 text-white font-semibold'>Postgres</p>*/}
+                {/*</div>*/}
 
                 <div className='hover:scale-110 duration-300'>
                     <img className='w-20 mx-auto' src={Bootstrap} alt="Logo bootstrap"/>
                     <p className='my-4 text-white font-semibold'>bootstrap</p>
                 </div>
 
-                <div className='hover:scale-110 duration-300'>
-                    <img className='w-20 mx-auto' src={Python} alt="Logo Python"/>
-                    <p className='my-4 text-white font-semibold'>Python</p>
-                </div>
+                {/*<div className='hover:scale-110 duration-300'>*/}
+                {/*    <img className='w-20 mx-auto' src={Python} alt="Logo Python"/>*/}
+                {/*    <p className='my-4 text-white font-semibold'>Python</p>*/}
+                {/*</div>*/}
 
             </div>
         </div>
