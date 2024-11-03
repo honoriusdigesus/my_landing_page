@@ -1,17 +1,20 @@
 import React, {useRef} from 'react';
 import emailjs from '@emailjs/browser';
 import Swal from 'sweetalert2'
+import {paramsEmailJs} from "../environment/environment";
 
 
 const Contact = () => {
     const form = useRef<HTMLFormElement>(null);
+    //Impor environment variables
+
 
     const sendEmail = (e: React.FormEvent) => {
         e.preventDefault();
 
         if (form.current) {
             emailjs
-                .sendForm('service_s7gd4ca', 'template_ocgxxxs', form.current, 'y6YvdU59DC49dcOzD')
+                .sendForm(paramsEmailJs.serviceID, paramsEmailJs.templateID, form.current, paramsEmailJs.userID)
                 .then(
                     () => {
                         console.log('SUCCESS!');
