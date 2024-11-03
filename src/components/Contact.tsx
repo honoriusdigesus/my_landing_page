@@ -5,7 +5,7 @@ const Contact = () => {
         <div  id='work' className='w-full h-screen flex justify-center items-center p-4 contact'>
             <form action="" method="post">
                 <div className='flex flex-col justify-center items-center'>
-                    <p className='text-6xl font-bold inline border-b-4 border-black'>Contact</p>
+                    <p className='text-6xl font-bold inline border-b-4 border-black uppercase'>Contact</p>
                     <p className='py-6 font-semibold text-2xl'>¿Tienes alguna pregunta o comentario? ¡Escríbeme!</p>
                 </div>
 

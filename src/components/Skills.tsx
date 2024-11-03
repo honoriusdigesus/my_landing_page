@@ -17,10 +17,10 @@ import Bootstrap from '../assets/boostrap.png';
 
 
 const Skills = () => {
-    return (<div id='skills' className='w-full h-screen skills'>
+    return (<div id='skill' className='w-full h-screen skills'>
         <div className='max-w-[1000px] mx-auto p-8 w-full h-full flex flex-col justify-center'>
             <div className='mb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-white text-white'>Skills</p>
+                <p className='text-4xl font-bold inline border-b-4 border-white text-white uppercase'>Skills</p>
             </div>
 
             <div className='w-full text-center py-8 grid grid-cols-3 sm:grid-cols-5 gap-6'>
