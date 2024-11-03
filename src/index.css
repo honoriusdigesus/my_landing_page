@@ -31,6 +31,11 @@
     background-size: cover;
 }
 
+.contact {
+    background: url("assets/contact_8.webp") no-repeat right center;
+    background-size: cover;
+}
+
 .content-div {
     background-repeat: no-repeat;
     background-size: cover;
